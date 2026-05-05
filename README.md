@@ -33,4 +33,4 @@ level to adjust pricing and coverage strategies.
 - Risk segmentation enables more accurate underwriting decisions.
 
 ## 📊 Dashboard
-[View Dashboard]([link_aqui](https://datastudio.google.com/reporting/a9016b8b-3fc9-4cab-9679-8a51b667e446))
+[View Dashboard] ([link_aqui](https://datastudio.google.com/reporting/a9016b8b-3fc9-4cab-9679-8a51b667e446))
