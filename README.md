@@ -31,3 +31,6 @@ level to adjust pricing and coverage strategies.
 - Insurance companies can adjust pricing strategies based on regional risk levels.
 - High-risk areas (CDMX, Estado de México) may require higher premiums or stricter coverage conditions.
 - Risk segmentation enables more accurate underwriting decisions.
+
+## 📊 Dashboard
+[View Dashboard]([link_aqui](https://datastudio.google.com/reporting/a9016b8b-3fc9-4cab-9679-8a51b667e446))
