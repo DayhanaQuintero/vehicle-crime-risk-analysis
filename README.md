@@ -26,3 +26,8 @@ level to adjust pricing and coverage strategies.
 - SARIMA model predicts stable levels for 2022
 - 3 risk segments: low, medium and high
 - Useful segmentation for regional policy pricing
+
+## Business Impact
+- Insurance companies can adjust pricing strategies based on regional risk levels.
+- High-risk areas (CDMX, Estado de México) may require higher premiums or stricter coverage conditions.
+- Risk segmentation enables more accurate underwriting decisions.
